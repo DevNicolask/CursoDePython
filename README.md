@@ -69,6 +69,20 @@
 * [Minha resolução](https://github.com/DevNicolask/CursoDePython/blob/main/Desafios%20do%20MUNDO%201/Ex.004.py)
 * [Exercício no curso em vídeo](https://www.youtube.com/watch?v=tHYxjJxtJko&list=PLHz_AreHm4dm6wYOIW20Nyg12TAjmMGT-&index=4)
 
+<!--Desafio 005-->
+<h3>- Desafio 005</h3>
+<h4>Resumo: .</h4>
+
+* [Minha resolução]()
+* [Exercício no curso em vídeo]()
+
+<!--Desafio 006-->
+<h3>- Desafio 006</h3>
+<h4>Resumo: .</h4>
+
+* [Minha resolução]()
+* [Exercício no curso em vídeo]()
+
 <!--Desafio 00x-->
 <h3>- Desafio 00x</h3>
 <h4>Resumo: .</h4>
