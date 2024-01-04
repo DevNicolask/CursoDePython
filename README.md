@@ -45,43 +45,57 @@
 <h3>- Desafio 001</h3>
 <h4>Resumo: Crie um programa que escreva "Olá, mundo!" na tela.</h4>
 
-* [Minha resolução](https://github.com/DevNicolask/CursoDePython/blob/main/Desafios%20do%20MUNDO%201/Ex.001.py)
+* [Minha resolução](https://github.com/DevNicolask/CursoDePython/blob/main/Desafios%20M1/Ex.001.py)
 * [Exercício no curso em vídeo](https://www.youtube.com/watch?v=nIHq1MtJaKs&list=PLHz_AreHm4dm6wYOIW20Nyg12TAjmMGT-&index=1)
 
 <!--Desafio 002-->
 <h3>- Desafio 002</h3>
 <h4>Resumo: Faça um programa que leia o nome de uma pessoa e faça uma mensagem de boas-vindas.</h4>
 
-* [Minha resolução](https://github.com/DevNicolask/CursoDePython/blob/main/Desafios%20do%20MUNDO%201/Ex.002.py)
+* [Minha resolução](https://github.com/DevNicolask/CursoDePython/blob/main/Desafios%20M1/Ex.002.py)
 * [Exercício no curso em vídeo](https://www.youtube.com/watch?v=FNqdV5Zb_5Q&list=PLHz_AreHm4dm6wYOIW20Nyg12TAjmMGT-&index=2)
 
 <!--Desafio 003-->
 <h3>- Desafio 003</h3>
 <h4>Resumo: Crie um programa que leia dois números e mostre a soma entre eles.</h4>
 
-* [Minha resolução](https://github.com/DevNicolask/CursoDePython/blob/main/Desafios%20do%20MUNDO%201/Ex.003.py)
+* [Minha resolução](https://github.com/DevNicolask/CursoDePython/blob/main/Desafios%20M1/Ex.003.py)
 * [Exercício no curso em vídeo](https://www.youtube.com/watch?v=PB254Cfjlyk&list=PLHz_AreHm4dm6wYOIW20Nyg12TAjmMGT-&index=3)
 
 <!--Desafio 004-->
 <h3>- Desafio 004</h3>
 <h4>Resumo: Faça um programa que leia algo pelo teclado e mostre na tela seu tipo primitivo e todas as informações possíveis sobre ele.</h4>
 
-* [Minha resolução](https://github.com/DevNicolask/CursoDePython/blob/main/Desafios%20do%20MUNDO%201/Ex.004.py)
+* [Minha resolução](https://github.com/DevNicolask/CursoDePython/blob/main/Desafios%20M1/Ex.004.py)
 * [Exercício no curso em vídeo](https://www.youtube.com/watch?v=tHYxjJxtJko&list=PLHz_AreHm4dm6wYOIW20Nyg12TAjmMGT-&index=4)
 
 <!--Desafio 005-->
 <h3>- Desafio 005</h3>
-<h4>Resumo: .</h4>
+<h4>Resumo: Faça um programa que leia um número inteiro e mostre na tela o seu sucessor e o seu antecessor.</h4>
 
-* [Minha resolução]()
-* [Exercício no curso em vídeo]()
+* [Minha resolução](https://github.com/DevNicolask/CursoDePython/blob/main/Desafios%20M1/Ex.005.py)
+* [Exercício no curso em vídeo](https://www.youtube.com/watch?v=664e0G_S9nU&list=PLHz_AreHm4dm6wYOIW20Nyg12TAjmMGT-&index=5)
 
 <!--Desafio 006-->
 <h3>- Desafio 006</h3>
-<h4>Resumo: .</h4>
+<h4>Resumo: Crie um algoritmo que leia um número e mostre o seu dobro, triplo e raiz quadrada.</h4>
 
-* [Minha resolução]()
-* [Exercício no curso em vídeo]()
+* [Minha resolução](https://github.com/DevNicolask/CursoDePython/blob/main/Desafios%20M1/Ex.006.py)
+* [Exercício no curso em vídeo](https://www.youtube.com/watch?v=mqcNw_dhl8I&list=PLHz_AreHm4dm6wYOIW20Nyg12TAjmMGT-&index=7)
+
+<!--Desafio 007-->
+<h3>- Desafio 007</h3>
+<h4>Resumo: Desenvolva um programa que leia duas notas de um aluno, calcule e mostre a sua média.</h4>
+
+* [Minha resolução](https://github.com/DevNicolask/CursoDePython/blob/main/Desafios%20M1/Ex.007.py)
+* [Exercício no curso em vídeo](https://www.youtube.com/watch?v=_QfISzy0IKs&list=PLHz_AreHm4dm6wYOIW20Nyg12TAjmMGT-&index=8)
+
+<!--Desafio 008-->
+<h3>- Desafio 008</h3>
+<h4>Resumo: Escreva um programa que leia um valor em métros e o exiba convertido em centimetros e milímetros. Tente fazer atualizações no seu código, se conseguir fazer o desafio, para que ele exiba na tela as outras conversões de metro também! (Quilômetro, hectômetro, decâmetro,metro, decímetro, [...]) </h4>
+
+* [Minha resolução](https://github.com/DevNicolask/CursoDePython/blob/main/Desafios%20M1/Ex.008.py)
+* [Exercício no curso em vídeo](https://youtube.com/watch?v=KjcdG05EAZc&list=PLHz_AreHm4dm6wYOIW20Nyg12TAjmMGT-&index=9)
 
 <!--Desafio 00x-->
 <h3>- Desafio 00x</h3>
