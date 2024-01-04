@@ -24,17 +24,17 @@
 <!--Instruções-->
 <h2>II. Como fazer</h2>
 
-### 2.1 Faça os desafios do curso em vídeo
+###  i. Faça os desafios do curso em vídeo
 #### - Vou colocá-los aqui em órdem crescente. (estou terminando ainda) 
 #### - Vou botar aqui também o link das respectivas aulas dos desafios.
-### 2.3 Se tiver curiosidade de ver a minha solução, procure aqui.
+### ii. Se tiver curiosidade de ver a minha solução, procure aqui.
 #### - Vou deixar o link da pasta da minha solução abaixo do desafio.
 
 <!--Aqui começam os desafios!!!-->
 <h2>III. Desafios.</h2>
 <h3>MUNDO 1 </h3>
 
-<!--Link da aula 14 do curso em vídeo-->
+<!--Link da 1° mundo do curso de PYTHON do curso em vídeo-->
 <p>
 
 * [Link do Mundo 1 do curso em vídeo](https://www.cursoemvideo.com/curso/python-3-mundo-1/)
@@ -96,6 +96,13 @@
 
 * [Minha resolução](https://github.com/DevNicolask/CursoDePython/blob/main/Desafios%20M1/Ex.008.py)
 * [Exercício no curso em vídeo](https://youtube.com/watch?v=KjcdG05EAZc&list=PLHz_AreHm4dm6wYOIW20Nyg12TAjmMGT-&index=9)
+
+<!--Desafio 009-->
+<h3>- Desafio 009</h3>
+<h4>Resumo: Faça um programa que leia um número inteiro qualquer e mostre na tela a sua tabuada.</h4>
+
+* [Minha resolução]()
+* [Exercício no curso em vídeo](https://www.youtube.com/watch?v=qajq3SI0QQs&list=PLHz_AreHm4dm6wYOIW20Nyg12TAjmMGT-&index=10)
 
 <!--Desafio 00x-->
 <h3>- Desafio 00x</h3>
