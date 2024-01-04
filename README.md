@@ -108,7 +108,7 @@
 <h3>- Desafio 010</h3>
 <h4>Resumo: Crie um programa que leia quanto dinheiro uma pessoa tem na carteira e mostre quantos dólares ela pode comprar. Utilize o valor de dólar mais atualizado .</h4>
 
-* [Minha resolução]()
+* [Minha resolução](https://github.com/DevNicolask/CursoDePython/blob/main/Desafios%20M1/Ex.010.py)
 * [Exercício no curso em vídeo](https://www.youtube.com/watch?v=xM4AX3Lp2mo&list=PLHz_AreHm4dm6wYOIW20Nyg12TAjmMGT-&index=11)
 
 <!--Desafio 0xx-->
