@@ -21,5 +21,4 @@ nome4 = str(input('\033[1;35mDiga o nome do quarto aluno: \033[m'))
 lista = [nome1, nome2, nome3, nome4]
 shuffle(lista)
 print('\033[1;34mA sequência de alunos escolhida foi: \033[m')
-print(lista)
-"""
+print(lista)"""

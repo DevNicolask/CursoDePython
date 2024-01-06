@@ -1,4 +1,4 @@
-# Versão Normal
+# Versão Normal.
 # Forma que eu fiz. utilizando o teorema de Pitágoras.
 from math import sqrt, hypot
 
@@ -12,7 +12,7 @@ a = float(input('Me diga o primeiro cateto. '))
 b = float(input('Me diga o segundo cateto. '))
 print(f'A hipotenusa será {hypot(a, b):.2f}.')
 
-# Versão Colorida
+# Versão Colorida.
 """
 # Forma que eu fiz. utilizando o teorema de Pitágoras.
 from math import sqrt

@@ -1,4 +1,4 @@
-# CÓDIGO NORMAL
+# Versão Normal.
 a = float(input('Me diga o número o qual você quer a tabuada '))
 print('-'*15)
 print(f'{a} *  2 = {a*2}.\n'
@@ -11,8 +11,10 @@ print(f'{a} *  2 = {a*2}.\n'
       f'{a} *  9 = {a*9}.\n'
       f'{a} * 10 = {a*10}.')
 print('-'*15)
-# CÓDIGO COLORIDO.
-"""a = float(input('\033[1;95mMe diga o número o qual você quer a tabuada '))
+
+# Versão Colorida.
+"""
+a = float(input('\033[1;95mMe diga o número o qual você quer a tabuada '))
 print('\033[1;95m-\033[m'*15)
 print(f'\033[1;30m{a} *  1 = {a}.\n'
       f'\033[1;31m{a} *  2 = {a*2}.\n'

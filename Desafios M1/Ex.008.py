@@ -1,4 +1,4 @@
-# Código normal.
+# Versão Normal.
 """a = float(input('Me fale um número em metros para a conversão '))
 print(f'{a} metros é igual a:\n'
       f'Em quilômetros: {a/1000}.\n'
@@ -8,7 +8,7 @@ print(f'{a} metros é igual a:\n'
       f'Em centímetros: {a*100}.\n'
       f'Em milímetros: {a*1000}')"""
 
-#Código colorido.
+# Versão Colorida.
 a = float(input('\033[2;94mMe fale um número em metros para a conversão \033[m'))
 print(f'\033[1;98m{a} metros é igual a:\n'
       f'\033[1;91mEm quilômetros: {a/1000}.\n'

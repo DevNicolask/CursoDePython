@@ -1,4 +1,4 @@
-# Versão Normal
+# Versão Normal.
 from math import floor, trunc
 
 # 1ª Forma que eu usei para resolver o desafio.
@@ -13,7 +13,7 @@ print(f'A parte inteira do número {n} é {floor(n)}')
 n = float(input('Me diga um número real. '))
 print(f'A parte inteira do número {n} é {trunc(n)}')
 
-# Versão Colorida
+# Versão Colorida.
 """
 from math import floor, trunc
 

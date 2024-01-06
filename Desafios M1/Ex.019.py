@@ -1,4 +1,4 @@
-# Código Normal
+# Versão Normal
 from random import choice
 a = str((input('Me diga o name do primeiro aluno ')))
 b = str((input('Me diga o name do segundo aluno ')))
@@ -7,7 +7,7 @@ d = str((input('Me diga o name do terceiro aluno ')))
 e = [a, b, c, d]
 print('O aluno escolhido foi ', choice(e))
 
-# Código colorido.'
+# Versão Colorida.'
 """
 from random import choice
 

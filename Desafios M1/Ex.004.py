@@ -1,4 +1,4 @@
-# Versão normal.
+# Versão Normal.
 a = input('Digite algo ')
 print(f'{a} é de qual tipo primtivo? ', type(a))
 print(f'{a} é numérico? ', a.isnumeric())
@@ -9,7 +9,7 @@ print(f'{a} tem apenas letras maiúsculas? ', a.isupper())
 print(f'{a} team apenas letras minúsculas? ', a.islower())
 print(f'{a} tem a inicial maiúscula?(capitalizated) ', a.istitle())
 
-# Versão com cores, utilizando um dicionário!
+# Versão Colorida, utilizando um dicionário!
 """cores = {
     'reset': '\033[m',
     'preto': '\033[1;30m',
