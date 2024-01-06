@@ -111,6 +111,41 @@
 * [Minha resolução](https://github.com/DevNicolask/CursoDePython/blob/main/Desafios%20M1/Ex.010.py)
 * [Exercício no curso em vídeo](https://www.youtube.com/watch?v=xM4AX3Lp2mo&list=PLHz_AreHm4dm6wYOIW20Nyg12TAjmMGT-&index=11)
 
+<!--Desafio 011-->
+<h3>- Desafio 011</h3>
+<h4>Resumo: Faça um programa que leia a largura e a alturr a de uma parede em metros, calcule a sua área a a quantidade de tinta necessária para pintá-la, sabendo que cada litro de tinta, pinta uma área de 2m².</h4>
+
+* [Minha resolução]()
+* [Exercício no curso em vídeo](https://youtu.be/mzSJpn9ldt4?si=zenmmHbZ0Ha0s2Hj)
+
+<!--Desafio 012-->
+<h3>- Desafio 012</h3>
+<h4>Resumo: Faça um aalgoritmo que leia o preço de um produto e mostre seu novo preço, com 5% de desconto.</h4>
+
+* [Minha resolução]()
+* [Exercício no curso em vídeo](https://youtu.be/4MAmKOT9FeU?si=awC4BRYGO7TkqsR2)
+
+<!--Desafio 013-->
+<h3>- Desafio 013</h3>
+<h4>Resumo: Faça um algoritmo que leia o salário de um funcionário e mostre seu novo salário.</h4>
+
+* [Minha resolução]()
+* [Exercício no curso em vídeo](https://youtu.be/cTkivN8XcJ0?si=RGKBbiMSJLfgiiwH)
+
+<!--Desafio 014-->
+<h3>- Desafio 014</h3>
+<h4>Resumo: Escreva um programa que converta uma temperatura digitada em °C e converta para °F.</h4>
+
+* [Minha resolução]()
+* [Exercício no curso em vídeo](https://youtu.be/9l_Gay8BuAw?si=xOGBeVbanBHlYnOo)
+
+<!--Desafio 015-->
+<h3>- Desafio 015</h3>
+<h4>Resumo: Escreva um programa que pergunte a quantidade de Km percorridos por um carro alugado e a quantidade de dias pelos quais ele foi alugado. Calcule o preço a pagar, sabendo que o carro custa R$60 por dia e R$0,15 por Km rodado.</h4>
+
+* [Minha resolução]()
+* [Exercício no curso em vídeo](https://youtu.be/I4NYUeetLAc?si=Qke7OkxW5EIzwZx2)
+
 <!--Desafio 0xx-->
 <h3>- Desafio 0xx</h3>
 <h4>Resumo: .</h4>
