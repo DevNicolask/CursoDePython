@@ -3,9 +3,11 @@
 a = int(input('\033[1;35mMe diga um número. \033[m'))
 b = int(input('\033[1;35mMe diga mais um número. \033[m'))
 c = int(input('\033[1;35mMe diga mais um ultimo número. \033[m'))
-# Teste pra saber se algum valor é igual
-if a == b == c:
+
+# Teste pra saber se todos os valores são iguais.
+if a == b == c == a:
     print('\033[1;35mNão é possível especificar qual o maior pois todos os valores são iguais.\033[m')
+
 # Teste pra saber o menor valor.
 else:
     menor = a
@@ -13,7 +15,8 @@ else:
         menor = b
     if c < a and c < b:
         menor = c
-    # Teste pra saber o maior valor.
+
+# Teste pra saber o maior valor.
     maior = a
     if b > a and b > c:
         maior = b
