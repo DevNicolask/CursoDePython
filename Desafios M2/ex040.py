@@ -12,10 +12,10 @@ media = (N1 + N2) / 2
 # Análise de situações possíveis.
 # Verifica se a média é menor que 5, Se for, o aluno está REPROVADO.
 if media < 5:
-    print(f'\033[1;31mA média do aluno foi {media} e ele está REPROVADO.\033[m')
+    print(f'\033[1;31mA média do aluno foi {media:.1f} e ele está REPROVADO.\033[m')
 # Verifica se a média é maior ou igual a 7, Se for, o aluno está APROVADO.
 elif media >= 7:
-    print(f'\033[1;35mA média do aluno foi {media} e ele está APROVADO.\033[m')
+    print(f'\033[1;35mA média do aluno foi {media:.1f} e ele está APROVADO.\033[m')
 # Se a média não for menor que 5 nem maior ou igual a 7,se for, o aluno está DE RECUPERAÇÃO.
 else:
-    print(f'\033[1;33mA média do aluno foi {media} e ele está de RECUPERAÇÃO.\033[m')
+    print(f'\033[1;33mA média do aluno foi {media:.1f} e ele está de RECUPERAÇÃO.\033[m')
