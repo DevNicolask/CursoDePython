@@ -11,10 +11,12 @@ salario = float(input('Digite seu salário. R$')) # Pede ao usuário que digite 
 anos = int(input('Em quantos anos você vai pagar? ')) # Pede ao usuário que digite a quantidade de anos que o comprador quer pagar.
 print('=-' * 30)
 prestacao = valor_da_casa / (anos*12) # Calcula o valor da prestação
+
 # Analisa as situações possíveis.
 # Prestação ser aprovada.
 if prestacao > (salario*0.3):
     print(f'O empréstimo não pode ser efetuado, pois a prestação R${prestacao:.2f} da casa é maior que 30% do seu salário que é R${salario}')
+
 # Prestação não ser aprovada.
 else:
     print(f'A sua compra foi efetivada, e você terá que pagar {prestacao:.2f} por {(anos * 12):.0f} mêses')

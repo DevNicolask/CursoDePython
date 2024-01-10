@@ -6,6 +6,7 @@
 # Pede os valores para o usuário. 
 A = int(input('\033[1;36mDigite um número \033[m'))
 B = int(input('\033[1;36mDigite outro número \033[m'))
+
 # Análise de situações possíveis.
 if A == B:
     print('\033[1;35mNenhum dos dois números é maior, pois os dois são iguais.\033[m') # Dois números iguais.

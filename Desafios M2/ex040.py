@@ -7,15 +7,15 @@
 # Solicita as notas do aluno ao usuário.
 N1 = float(input('\033[1;36mDigite a primeira nota do aluno: \033[m'))
 N2 = float(input('\033[1;36mDigite a segunda nota do aluno: \033[m'))
+
 # Calcula a média das duas notas.
 media = (N1 + N2) / 2
+
 # Análise de situações possíveis.
 # Verifica se a média é menor que 5, Se for, o aluno está REPROVADO.
 if media < 5:
-    print(f'\033[1;31mA média do aluno foi {media:.1f} e ele está REPROVADO.\033[m')
-# Verifica se a média é maior ou igual a 7, Se for, o aluno está APROVADO.
+    print(f'\033[1;31mA média do aluno foi {media:.1f} e ele está REPROVADO.\033[m') # Aluno REPROVADO.
 elif media >= 7:
-    print(f'\033[1;35mA média do aluno foi {media:.1f} e ele está APROVADO.\033[m')
-# Se a média não for menor que 5 nem maior ou igual a 7,se for, o aluno está DE RECUPERAÇÃO.
+    print(f'\033[1;35mA média do aluno foi {media:.1f} e ele está APROVADO.\033[m') # Aluno APROVADO.
 else:
-    print(f'\033[1;33mA média do aluno foi {media:.1f} e ele está de RECUPERAÇÃO.\033[m')
+    print(f'\033[1;33mA média do aluno foi {media:.1f} e ele está de RECUPERAÇÃO.\033[m') # Aluno de RECUPERAÇÃO

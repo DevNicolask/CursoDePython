@@ -1,44 +1,61 @@
 # Desafio: Crie um programa que faça o computador jogar Jokenpô com você.
 
-# FAzendo o Pedra, Papel e Tesoura!
+# Fazendo o Pedra, Papel e Tesoura!
 from random import choice
+from time import sleep
 
-# Pergunta ao usuário o nome dele pra melhorar a interação no jogo.
-nome = str(input('\033[1;35mDigite seu nome. \033[m'))
+print('\033[1;35m=-=\033[m' * 10)
+print('\033[1;36m           JO KEN PÔ\033[m')
+print('\033[1;35m=-=\033[m' * 10)
+# O computador escolhe um ítem da lista e pede ao usuário que faça o mesmo.
+print(f'''\033[1;34mEscolha uma dessas opções: 
+    [0] - PEDRA.
+    [1] - PAPEL.
+    [2] - TESOURA.\033[m''')
+lista = ['PEDRA', 'PAPEL', 'TESOURA']
 
-# Pergunta se o usuário quer jogar.
-resp = str(input(f'\033[1;35mVamos jogar Jokenpô {nome}?[S/n] \033[m'))
-if resp.upper() == 'S' or resp.upper() == 'SIM':
+# Chama a função choice da lib. Random, que faz a escolha de um dos ítens da lista.
+Jcomp = choice(lista)
 
-    # Caso o usuário queira jogar, o computador escolhe um ítem da lista e pede ao usuário que faça o mesmo.
-    print('\033[1;34mVou escolher entre pedra, papel ou tesoura.'
-          f'Escolha uma dessas opções pra você também {nome}.\033[m')
-    lista = ['PEDRA', 'PAPEL', 'TESOURA']
+# Pede a jogada do jogador, que poe ser 0, 1 ou 2. Caso contrário mostra uma mensagem de ERRO.
+posição = int(input(f'\033[1;34mO que você quer jogar? \033[m'))
+if posição == 0 or posição == 1 or posição == 2:
+    Jogador = lista[posição]
+    print('\033[1;35m=-=\033[m' * 10)
 
-    # Chama a função choice da lib. Random, que faz a escolha de um dos ítens da lista.
-    Jcomp = choice(lista)
-    Jnome = str(input(f'\033[1;35mO que você escolheu? \033[m'))
+# Mostra o Jo Ken Po. Com intervalo de tempo entre o nome usando a função sleep da lib. time
+    print('\033[1;36mJo\033[m')
+    sleep(1)
+    print('\033[1;36mKEN\033[m')
+    sleep(1)
+    print('\033[1;36mPO!!!\033[m')
+    sleep(1)
+    print('\033[1;35m=-=\033[m' * 10)
 
-    # Início Condições resposta do jogo.
-    # Deu empate.
-    if Jcomp.upper() == Jnome.upper():
-        print(f'\033[1;36mO jogador {nome} EMPATOU com o COMPUTADOR com \033[m \033[1;35m{Jcomp.upper()}\033[m.')
+# Início Condições resposta do jogo.
+# Deu empate.
+    if Jcomp == Jogador:
+        print(f'\033[1;36mO jogador EMPATOU com o COMPUTADOR. \n'
+            f'Ambos jogaram \033[m \033[1;35m{Jcomp}\033[m.')
 
-    # O computador ganhou. Condições em que isso ocorre.
-    elif (Jcomp.upper() == 'PEDRA' and Jnome.upper() == 'TESOURA' or Jcomp.upper() == 'TESOURA' and Jnome.upper() ==
-          'PAPEL' or Jcomp.upper() == 'PAPEL' and Jnome.upper() == 'PEDRA'):
-        print(f'\033[1;35mO computador GANHOU com\033[m \033[1;31m{Jcomp.upper()}\033[m \033[1;35mcontra {nome} '
-              f'com\033[m \033[1;31m{Jnome.upper()}\033[m')
-        print(f'\033[1;35mMais sorte da próxima vez {nome}\033[m')
+# O computador ganhou. Condições em que isso ocorre.
+    elif (Jcomp == 'PEDRA' and Jogador == 'TESOURA' or Jcomp == 'TESOURA' and Jogador ==
+        'PAPEL' or Jcomp == 'PAPEL' and Jogador == 'PEDRA'):
+        print(f'\033[1;36mO computador GANHOU com\033[m \033[1;31m{Jcomp}\033[m \n'
+            f'\033[1;36mContra o Jogador com\033[m \033[1;31m{Jogador}\033[m')
+        print(f'\033[1;36mMais sorte da próxima vez Jogador\033[m')
 
-    # O jogador ganhou.
-    else:
-        print(f'\033[1;36mO jogador {nome} GANHOU com\033[m \033[1;35m{Jnome.upper()}\033[m '
-              f'\033[1;36mcontra COMPUTADOR com \033[m \033[1;35m{Jcomp.upper()}\033[m')
-        print(f'\033[1;36mMuito bem {nome}! Você é muito bom nesse jogo.\033[m')
+# O jogador ganhou. Condições em que isso ocorre.
+    elif (Jogador == 'PEDRA' and Jcomp == 'TESOURA' or Jogador == 'TESOURA' and Jcomp ==
+        'PAPEL' or Jogador == 'PAPEL' and Jcomp == 'PEDRA'):
+        print(f'\033[1;36mO jogador GANHOU com\033[m \033[1;35m{Jogador}\033[m \n'
+            f'\033[1;36mContra COMPUTADOR com \033[m \033[1;35m{Jcomp}\033[m')
+        print(f'\033[1;36mParabéns Jogador! Você GANHOU!!!\033[m')
 
-    # Fim das condições de resposta do jogo.
+# Jogada inválida. Mostra uma mensagem de ERRO.
 else:
+    print(f'\033[1;36mERRO! Aparentemente você não jogou nenhuma opção válida, '
+          'tente novamente.\033[m.')
+print('\033[1;35m=-=\033[m' * 10)
 
-    # Se o usuário não quiser jogar Jokenpõ ele finaliza o programa
-    print('\033[1;33mVamos jogar outra hora então...\033[m')
+# Fim das condições de resposta do jogo.
