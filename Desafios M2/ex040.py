@@ -19,4 +19,3 @@ elif media >= 7:
 # Se a média não for menor que 5 nem maior ou igual a 7,se for, o aluno está DE RECUPERAÇÃO.
 else:
     print(f'\033[1;33mA média do aluno foi {media} e ele está de RECUPERAÇÃO.\033[m')
-
