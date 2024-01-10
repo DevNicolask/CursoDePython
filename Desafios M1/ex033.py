@@ -23,3 +23,4 @@ else:
     if c > a and c > b:
         maior = c
     print(f'\033[1;35mO menor valor é\033[m \033[1;36m{menor}\033[m \033[1;35me o maior valor é\033[m \033[1;36m{maior}\033[m')
+ 

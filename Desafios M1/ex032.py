@@ -15,3 +15,4 @@ if ano % 4 == 0 and ano % 100 != 0 or ano % 400 == 0:
     print(f'\033[1;35mO ano\033[m \033[1;35m{ano}\033[m \033[1;36mÉ BISSEXTO!\033[m') # Ano é bissexto.
 else:
     print(f'\033[1;35mO ano\033[m \033[1;35m{ano}\033[m \033[1;36mNÃO É BISSEXTO!\033[m') # Ano não é bissexto.
+ 

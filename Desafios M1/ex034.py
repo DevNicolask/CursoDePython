@@ -15,3 +15,4 @@ print('\033[33m-=-=\033[m' * 20)
 print(f'\033[1;32mSeu salário de {a:.2f} quando receber o aumento será {b:.2f}.\nOu seja terá um aumento de {b - a:.2f}'
       f' reais, que é {(b / a * 100) - 100:.0f}% do seu salário anterior.\033[m')
 print('\033[33m-=-=\033[m' * 20)
+ 

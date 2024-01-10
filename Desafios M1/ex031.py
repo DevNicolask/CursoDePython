@@ -14,3 +14,4 @@ else:
 # 'if simpificado' = Em uma única linha é colocado o if e o else
 """b = a * 0.50 if a <= 200 else a * 0.45
 print(f'\033[1;36mSua viagem de\033[m \033[1;35m{a}Km\033[m \033[1;36mirá custar\033[m \033[1;35mR${b:.2f} reais.\33[m')"""
+ 
