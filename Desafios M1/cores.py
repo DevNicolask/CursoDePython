@@ -15,3 +15,4 @@ class Cores:
     azul2 = '\033[94m'
     magenta2 = '\033[95m'
     ciano2 = '\033[96m'
+ 
