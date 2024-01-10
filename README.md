@@ -34,13 +34,14 @@
 <h2>III. Desafios.</h2>
 <h3>MUNDO 1 </h3>
 
-<!--Link da 1° mundo do curso de PYTHON do curso em vídeo-->
+<!--Link do 1° mundo do curso de PYTHON do curso em vídeo-->
 <p>
 
 * [Link do Mundo 1 do curso em vídeo](https://www.cursoemvideo.com/curso/python-3-mundo-1/)
 
 </p>
 
+---
 <!--Desafio 001-->
 <h3>- Desafio 001</h3>
 <h4>Resumo: Crie um programa que escreva "Olá, mundo!" na tela.</h4>
@@ -48,6 +49,7 @@
 * [Minha resolução](https://github.com/DevNicolask/CursoDePython/blob/main/Desafios%20M1/Ex.001.py)
 * [Exercício no curso em vídeo](https://www.youtube.com/watch?v=nIHq1MtJaKs&list=PLHz_AreHm4dm6wYOIW20Nyg12TAjmMGT-&index=1)
 
+---
 <!--Desafio 002-->
 <h3>- Desafio 002</h3>
 <h4>Resumo: Faça um programa que leia o nome de uma pessoa e faça uma mensagem de boas-vindas.</h4>
@@ -55,6 +57,7 @@
 * [Minha resolução](https://github.com/DevNicolask/CursoDePython/blob/main/Desafios%20M1/Ex.002.py)
 * [Exercício no curso em vídeo](https://www.youtube.com/watch?v=FNqdV5Zb_5Q&list=PLHz_AreHm4dm6wYOIW20Nyg12TAjmMGT-&index=2)
 
+----
 <!--Desafio 003-->
 <h3>- Desafio 003</h3>
 <h4>Resumo: Crie um programa que leia dois números e mostre a soma entre eles.</h4>
@@ -62,6 +65,7 @@
 * [Minha resolução](https://github.com/DevNicolask/CursoDePython/blob/main/Desafios%20M1/Ex.003.py)
 * [Exercício no curso em vídeo](https://www.youtube.com/watch?v=PB254Cfjlyk&list=PLHz_AreHm4dm6wYOIW20Nyg12TAjmMGT-&index=3)
 
+---
 <!--Desafio 004-->
 <h3>- Desafio 004</h3>
 <h4>Resumo: Faça um programa que leia algo pelo teclado e mostre na tela seu tipo primitivo e todas as informações possíveis sobre ele.</h4>
@@ -69,6 +73,7 @@
 * [Minha resolução](https://github.com/DevNicolask/CursoDePython/blob/main/Desafios%20M1/Ex.004.py)
 * [Exercício no curso em vídeo](https://www.youtube.com/watch?v=tHYxjJxtJko&list=PLHz_AreHm4dm6wYOIW20Nyg12TAjmMGT-&index=4)
 
+---
 <!--Desafio 005-->
 <h3>- Desafio 005</h3>
 <h4>Resumo: Faça um programa que leia um número inteiro e mostre na tela o seu sucessor e o seu antecessor.</h4>
@@ -76,6 +81,7 @@
 * [Minha resolução](https://github.com/DevNicolask/CursoDePython/blob/main/Desafios%20M1/Ex.005.py)
 * [Exercício no curso em vídeo](https://www.youtube.com/watch?v=664e0G_S9nU&list=PLHz_AreHm4dm6wYOIW20Nyg12TAjmMGT-&index=5)
 
+---
 <!--Desafio 006-->
 <h3>- Desafio 006</h3>
 <h4>Resumo: Crie um algoritmo que leia um número e mostre o seu dobro, triplo e raiz quadrada.</h4>
@@ -83,6 +89,7 @@
 * [Minha resolução](https://github.com/DevNicolask/CursoDePython/blob/main/Desafios%20M1/Ex.006.py)
 * [Exercício no curso em vídeo](https://www.youtube.com/watch?v=mqcNw_dhl8I&list=PLHz_AreHm4dm6wYOIW20Nyg12TAjmMGT-&index=7)
 
+---
 <!--Desafio 007-->
 <h3>- Desafio 007</h3>
 <h4>Resumo: Desenvolva um programa que leia duas notas de um aluno, calcule e mostre a sua média.</h4>
@@ -90,6 +97,7 @@
 * [Minha resolução](https://github.com/DevNicolask/CursoDePython/blob/main/Desafios%20M1/Ex.007.py)
 * [Exercício no curso em vídeo](https://www.youtube.com/watch?v=_QfISzy0IKs&list=PLHz_AreHm4dm6wYOIW20Nyg12TAjmMGT-&index=8)
 
+---
 <!--Desafio 008-->
 <h3>- Desafio 008</h3>
 <h4>Resumo: Escreva um programa que leia um valor em métros e o exiba convertido em centimetros e milímetros. Tente fazer atualizações no seu código, se conseguir fazer o desafio, para que ele exiba na tela as outras conversões de metro também! (Quilômetro, hectômetro, decâmetro,metro, decímetro, [...]) </h4>
@@ -97,6 +105,7 @@
 * [Minha resolução](https://github.com/DevNicolask/CursoDePython/blob/main/Desafios%20M1/Ex.008.py)
 * [Exercício no curso em vídeo](https://youtube.com/watch?v=KjcdG05EAZc&list=PLHz_AreHm4dm6wYOIW20Nyg12TAjmMGT-&index=9)
 
+---
 <!--Desafio 009-->
 <h3>- Desafio 009</h3>
 <h4>Resumo: Faça um programa que leia um número inteiro qualquer e mostre na tela a sua tabuada.</h4>
@@ -104,6 +113,7 @@
 * [Minha resolução](https://github.com/DevNicolask/CursoDePython/blob/main/Desafios%20M1/Ex.009.py)
 * [Exercício no curso em vídeo](https://www.youtube.com/watch?v=qajq3SI0QQs&list=PLHz_AreHm4dm6wYOIW20Nyg12TAjmMGT-&index=10)
 
+---
 <!--Desafio 010-->
 <h3>- Desafio 010</h3>
 <h4>Resumo: Crie um programa que leia quanto dinheiro uma pessoa tem na carteira e mostre quantos dólares ela pode comprar. Utilize o valor de dólar mais atualizado .</h4>
@@ -111,6 +121,7 @@
 * [Minha resolução](https://github.com/DevNicolask/CursoDePython/blob/main/Desafios%20M1/Ex.010.py)
 * [Exercício no curso em vídeo](https://www.youtube.com/watch?v=xM4AX3Lp2mo&list=PLHz_AreHm4dm6wYOIW20Nyg12TAjmMGT-&index=11)
 
+---
 <!--Desafio 011-->
 <h3>- Desafio 011</h3>
 <h4>Resumo: Faça um programa que leia a largura e a alturr a de uma parede em metros, calcule a sua área a a quantidade de tinta necessária para pintá-la, sabendo que cada litro de tinta, pinta uma área de 2m².</h4>
@@ -118,6 +129,7 @@
 * [Minha resolução](https://github.com/DevNicolask/CursoDePython/blob/main/Desafios%20M1/Ex.011.py)
 * [Exercício no curso em vídeo](https://youtu.be/mzSJpn9ldt4?si=zenmmHbZ0Ha0s2Hj)
 
+---
 <!--Desafio 012-->
 <h3>- Desafio 012</h3>
 <h4>Resumo: Faça um aalgoritmo que leia o preço de um produto e mostre seu novo preço, com 5% de desconto.</h4>
@@ -125,6 +137,7 @@
 * [Minha resolução](https://github.com/DevNicolask/CursoDePython/blob/main/Desafios%20M1/Ex.012.py)
 * [Exercício no curso em vídeo](https://youtu.be/4MAmKOT9FeU?si=awC4BRYGO7TkqsR2)
 
+---
 <!--Desafio 013-->
 <h3>- Desafio 013</h3>
 <h4>Resumo: Faça um algoritmo que leia o salário de um funcionário e mostre seu novo salário.</h4>
@@ -132,6 +145,7 @@
 * [Minha resolução](https://github.com/DevNicolask/CursoDePython/blob/main/Desafios%20M1/Ex.013.py)
 * [Exercício no curso em vídeo](https://youtu.be/cTkivN8XcJ0?si=RGKBbiMSJLfgiiwH)
 
+---
 <!--Desafio 014-->
 <h3>- Desafio 014</h3>
 <h4>Resumo: Escreva um programa que converta uma temperatura digitada em °C e converta para °F.</h4>
@@ -139,6 +153,7 @@
 * [Minha resolução](https://github.com/DevNicolask/CursoDePython/blob/main/Desafios%20M1/Ex.014.py)
 * [Exercício no curso em vídeo](https://youtu.be/9l_Gay8BuAw?si=xOGBeVbanBHlYnOo)
 
+---
 <!--Desafio 015-->
 <h3>- Desafio 015</h3>
 <h4>Resumo: Escreva um programa que pergunte a quantidade de Km percorridos por um carro alugado e a quantidade de dias pelos quais ele foi alugado. Calcule o preço a pagar, sabendo que o carro custa R$60 por dia e R$0,15 por Km rodado.</h4>
@@ -146,8 +161,244 @@
 * [Minha resolução](https://github.com/DevNicolask/CursoDePython/blob/main/Desafios%20M1/Ex.015.py)
 * [Exercício no curso em vídeo](https://youtu.be/I4NYUeetLAc?si=Qke7OkxW5EIzwZx2)
 
-<!--Desafio 0xx-->
-<h3>- Desafio 0xx</h3>
+---
+<!--Desafio 016-->
+<h3>- Desafio 016</h3>
+<h4>Resumo: .</h4>
+
+* [Minha resolução]()
+* [Exercício no curso em vídeo]()
+
+---
+<!--Desafio 017-->
+<h3>- Desafio 017</h3>
+<h4>Resumo: .</h4>
+
+* [Minha resolução]()
+* [Exercício no curso em vídeo]()
+
+---
+<!--Desafio 018-->
+<h3>- Desafio 018</h3>
+<h4>Resumo: .</h4>
+
+* [Minha resolução]()
+* [Exercício no curso em vídeo]()
+
+---
+<!--Desafio 019-->
+<h3>- Desafio 019</h3>
+<h4>Resumo: .</h4>
+
+* [Minha resolução]()
+* [Exercício no curso em vídeo]()
+
+---
+<!--Desafio 020-->
+<h3>- Desafio 020</h3>
+<h4>Resumo: .</h4>
+
+* [Minha resolução]()
+* [Exercício no curso em vídeo]()
+
+---
+<!--Desafio 021-->
+<h3>- Desafio 021</h3>
+<h4>Resumo: .</h4>
+
+* [Minha resolução]()
+* [Exercício no curso em vídeo]()
+
+---
+<!--Desafio 022-->
+<h3>- Desafio 022</h3>
+<h4>Resumo: .</h4>
+
+* [Minha resolução]()
+* [Exercício no curso em vídeo]()
+
+---
+<!--Desafio 023-->
+<h3>- Desafio 023</h3>
+<h4>Resumo: .</h4>
+
+* [Minha resolução]()
+* [Exercício no curso em vídeo]()
+
+---
+<!--Desafio 024-->
+<h3>- Desafio 024</h3>
+<h4>Resumo: .</h4>
+
+* [Minha resolução]()
+* [Exercício no curso em vídeo]()
+
+---
+<!--Desafio 025-->
+<h3>- Desafio 025</h3>
+<h4>Resumo: .</h4>
+
+* [Minha resolução]()
+* [Exercício no curso em vídeo]()
+
+---
+<!--Desafio 026-->
+<h3>- Desafio 026</h3>
+<h4>Resumo: .</h4>
+
+* [Minha resolução]()
+* [Exercício no curso em vídeo]()
+
+---
+<!--Desafio 027-->
+<h3>- Desafio 027</h3>
+<h4>Resumo: .</h4>
+
+* [Minha resolução]()
+* [Exercício no curso em vídeo]()
+
+---
+<!--Desafio 028-->
+<h3>- Desafio 028</h3>
+<h4>Resumo: .</h4>
+
+* [Minha resolução]()
+* [Exercício no curso em vídeo]()
+
+---
+<!--Desafio 029-->
+<h3>- Desafio 029</h3>
+<h4>Resumo: .</h4>
+
+* [Minha resolução]()
+* [Exercício no curso em vídeo]()
+
+---
+<!--Desafio 030-->
+<h3>- Desafio 030</h3>
+<h4>Resumo: .</h4>
+
+* [Minha resolução]()
+* [Exercício no curso em vídeo]()
+
+---
+<!--Desafio 031-->
+<h3>- Desafio 031</h3>
+<h4>Resumo: .</h4>
+
+* [Minha resolução]()
+* [Exercício no curso em vídeo]()
+
+---
+<!--Desafio 032-->
+<h3>- Desafio 032</h3>
+<h4>Resumo: .</h4>
+
+* [Minha resolução]()
+* [Exercício no curso em vídeo]()
+
+---
+<!--Desafio 033-->
+<h3>- Desafio 033</h3>
+<h4>Resumo: .</h4>
+
+* [Minha resolução]()
+* [Exercício no curso em vídeo]()
+
+---
+<!--Desafio 034-->
+<h3>- Desafio 034</h3>
+<h4>Resumo: .</h4>
+
+* [Minha resolução]()
+* [Exercício no curso em vídeo]()
+
+---
+<!--Desafio 035-->
+<h3>- Desafio 035</h3>
+<h4>Resumo: .</h4>
+
+* [Minha resolução]()
+* [Exercício no curso em vídeo]()
+
+<!--Aqui começam os desafios do Mundo 2-->
+<h3>MUNDO 2 </h3>
+
+<!--Link do 2° mundo do curso de PYTHON do curso em vídeo-->
+<p>
+
+* [Link do Mundo 2 do curso em vídeo](https://www.cursoemvideo.com/curso/python-3-mundo-2/)
+
+</p>
+
+---
+---
+<!--Desafio 036-->
+<h3>- Desafio 036</h3>
+<h4>Resumo: .</h4>
+
+* [Minha resolução]()
+* [Exercício no curso em vídeo]()
+
+---
+<!--Desafio 038-->
+<h3>- Desafio 038</h3>
+<h4>Resumo: .</h4>
+
+* [Minha resolução]()
+* [Exercício no curso em vídeo]()
+
+---
+<!--Desafio 039-->
+<h3>- Desafio 039</h3>
+<h4>Resumo: .</h4>
+
+* [Minha resolução]()
+* [Exercício no curso em vídeo]()
+
+---
+<!--Desafio 040-->
+<h3>- Desafio 040</h3>
+<h4>Resumo: .</h4>
+
+* [Minha resolução]()
+* [Exercício no curso em vídeo]()
+
+---
+<!--Desafio 041-->
+<h3>- Desafio 041</h3>
+<h4>Resumo: .</h4>
+
+* [Minha resolução]()
+* [Exercício no curso em vídeo]()
+
+---
+<!--Desafio 042-->
+<h3>- Desafio 042</h3>
+<h4>Resumo: .</h4>
+
+* [Minha resolução]()
+* [Exercício no curso em vídeo]()
+
+---
+<!--Desafio 043-->
+<h3>- Desafio 043</h3>
+<h4>Resumo: .</h4>
+
+* [Minha resolução]()
+* [Exercício no curso em vídeo]()
+
+---
+<!--Desafio 044-->
+<h3>- Desafio 044</h3>
+<h4>Resumo: .</h4>
+
+* [Minha resolução]()
+* [Exercício no curso em vídeo]()
+
+---
+<!--Desafio 045-->
+<h3>- Desafio 045</h3>
 <h4>Resumo: .</h4>
 
 * [Minha resolução]()
