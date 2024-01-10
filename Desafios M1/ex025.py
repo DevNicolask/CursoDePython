@@ -18,3 +18,4 @@ print(f'\033[1;35mSeu nome tem \"Silva\"?\033[m \033[1;36m{'silva' in nome.lower
 
 # Como eu fiz:
 print(f'\033[1;35mSeu nome tem "Silva"?\033[m \033[1;36m{not (nome.lower().find('silva') == -1)}\033[m')"""
+ 
