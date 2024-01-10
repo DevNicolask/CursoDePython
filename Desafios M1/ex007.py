@@ -11,3 +11,4 @@ print(f'A média aritmética das notas desse aluno é {(nota1+nota2)/2}')
 nota1 = int(input('\033[1;34mNota 1 do aluno \033[m'))
 nota2 = int(input('\033[1;34mNota 2 do aluno \033[m'))
 print(f'\033[1;35mA média aritmética das notas desse aluno é\033[m \033[1;36m{(nota1+nota2)/2}\033[m')
+ 
