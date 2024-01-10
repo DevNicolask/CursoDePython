@@ -164,7 +164,7 @@
 ---
 <!--Desafio 016-->
 <h3>- Desafio 016</h3>
-<h4>Resumo: .</h4>
+<h4>Resumo: Crie um programa que leia um número Real qualquer pelo teclado e mostre na tela a sua porção Inteira.</h4>
 
 * [Minha resolução]()
 * [Exercício no curso em vídeo]()
