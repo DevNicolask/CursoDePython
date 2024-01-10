@@ -10,3 +10,4 @@ input()
 event.wait()
 
 # Esse não tem versão colorida rs
+ 

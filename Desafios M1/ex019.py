@@ -20,3 +20,4 @@ nome3 = str((input('\033[1;34mMe diga o nome do terceiro aluno \033[m')))
 nome4 = str((input('\033[1;36mMe diga o nome do terceiro aluno \033[m')))
 lista = [nome1, nome2, nome3, nome4]
 print('\033[1;35mO aluno escolhido foi \033[m', choice(lista))"""
+ 
