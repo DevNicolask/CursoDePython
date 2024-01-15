@@ -381,7 +381,6 @@ Obs.: fazer uma atualização no algoritmo para que ele pergunte o sexo da pesso
 
 * [Minha resolução](https://github.com/DevNicolask/CursoDePython/blob/main/Desafios%20do%20Mundo%202/ex040.py)
 * [Exercício no curso em vídeo](https://www.youtube.com/watch?v=QuWDyUeoaJs&list=PLHz_AreHm4dk_nZHmxxf_J0WRAqy5Czye&index=7)
-
 ---
 <!--Desafio 041-->
 <h3>- Desafio 041</h3>
@@ -394,7 +393,6 @@ Obs.: fazer uma atualização no algoritmo para que ele pergunte o sexo da pesso
 
 * [Minha resolução](https://github.com/DevNicolask/CursoDePython/blob/main/Desafios%20do%20Mundo%202/ex041.py)
 * [Exercício no curso em vídeo](https://www.youtube.com/watch?v=ZiC5NgSGJXU&list=PLHz_AreHm4dk_nZHmxxf_J0WRAqy5Czye&index=8)
-
 ---
 <!--Desafio 042-->
 <h3>- Desafio 042</h3>
@@ -405,7 +403,6 @@ Obs.: fazer uma atualização no algoritmo para que ele pergunte o sexo da pesso
 
 * [Minha resolução](https://github.com/DevNicolask/CursoDePython/blob/main/Desafios%20do%20Mundo%202/ex042.py)
 * [Exercício no curso em vídeo](https://www.youtube.com/watch?v=ZX7sCPjcHA0&list=PLHz_AreHm4dk_nZHmxxf_J0WRAqy5Czye&index=9)
-
 ---
 <!--Desafio 043-->
 <h3>- Desafio 043</h3>
@@ -418,7 +415,6 @@ Obs.: fazer uma atualização no algoritmo para que ele pergunte o sexo da pesso
 
 * [Minha resolução](https://github.com/DevNicolask/CursoDePython/blob/main/Desafios%20do%20Mundo%202/ex043.py)
 * [Exercício no curso em vídeo](https://www.youtube.com/watch?v=b7r34za963I&list=PLHz_AreHm4dk_nZHmxxf_J0WRAqy5Czye&index=10)
-
 ---
 <!--Desafio 044-->
 <h3>- Desafio 044</h3>
@@ -430,7 +426,6 @@ Obs.: fazer uma atualização no algoritmo para que ele pergunte o sexo da pesso
 
 * [Minha resolução](https://github.com/DevNicolask/CursoDePython/blob/main/Desafios%20do%20Mundo%202/ex044.py)
 * [Exercício no curso em vídeo](https://www.youtube.com/watch?v=I-SH3QchuZ4&list=PLHz_AreHm4dk_nZHmxxf_J0WRAqy5Czye&index=11)
-
 ---
 <!--Desafio 045-->
 <h3>- Desafio 045</h3>
@@ -438,3 +433,81 @@ Obs.: fazer uma atualização no algoritmo para que ele pergunte o sexo da pesso
 
 * [Minha resolução](https://github.com/DevNicolask/CursoDePython/blob/main/Desafios%20do%20Mundo%202/ex045.py)
 * [Exercício no curso em vídeo](https://www.youtube.com/watch?v=tapTa6KVG-A&list=PLHz_AreHm4dk_nZHmxxf_J0WRAqy5Czye&index=12)
+---
+<!--Desafio 046-->
+<h3>- Desafio 046</h3>
+<h4>Resumo: Faça um programa que mostre na tela uma contagem regressiva para o estouro de fogos de artifício, indo de 10 até 0, com uma pausa de 1 segundo entre eles.</h4>
+
+* [Minha resolução]()
+* [Exercício no curso em vídeo](https://youtu.be/NR1RKt6NT8s?feature=shared)
+---
+<!--Desafio 047-->
+<h3>- Desafio 047</h3>
+<h4>Resumo: Crie um programa que mostre na tela todos os números pares que estão no intervalo entre 1 e 50.</h4>
+
+* [Minha resolução]()
+* [Exercício no curso em vídeo](https://youtu.be/Qws8-E-YrlY?feature=shared)
+---
+<!--Desafio 048-->
+<h3>- Desafio 048</h3>
+<h4>Resumo: Faça um programa que calcule a soma entre todos os números que são múltiplos de três e que se encontram no intervalo de 1 até 500.</h4>
+
+* [Minha resolução]()
+* [Exercício no curso em vídeo](https://youtu.be/iHjsUxNA-wo?feature=shared)
+---
+<!--Desafio 049-->
+<h3>- Desafio 049</h3>
+<h4>Resumo:  Refaça o DESAFIO 009, mostrando a tabuada de um número que o usuário escolher, só que agora utilizando um laço for.</h4>
+
+* [Minha resolução]()
+* [Exercício no curso em vídeo](https://youtu.be/QtElJDa9ICM?feature=shared)
+---
+<!--Desafio 050-->
+<h3>- Desafio 050</h3>
+<h4>Resumo: Desenvolva um programa que leia seis números inteiros e mostre a soma apenas daqueles que forem pares. Se o valor digitado for ímpar, desconsidere-o.</h4>
+
+* [Minha resolução]()
+* [Exercício no curso em vídeo](https://youtu.be/rJaBLOW57Jg?feature=shared)
+---
+<!--Desafio 051-->
+<h3>- Desafio 051</h3>
+<h4>Resumo: Desenvolva um programa que leia o primeiro termo e a razão de uma PA. No final, mostre os 10 primeiros termos dessa progressão.</h4>
+
+* [Minha resolução]()
+* [Exercício no curso em vídeo](https://youtu.be/-OnqSGh0u4g?feature=shared)
+---
+<!--Desafio 052-->
+<h3>- Desafio 052</h3>
+<h4>Resumo: Faça um programa que leia um número inteiro e diga se ele é ou não um número primo.</h4>
+
+* [Minha resolução]()
+* [Exercício no curso em vídeo](https://youtu.be/Er5Hyd4LyVw?feature=shared)
+---
+<!--Desafio 053-->
+<h3>- Desafio 053</h3>
+<h4>Resumo: Crie um programa que leia uma frase qualquer e diga se ela é um palíndromo, desconsiderando os espaços. Exemplos de palíndromos:
+APOS A SOPA, A SACADA DA CASA, A TORRE DA DERROTA, O LOBO AMA O BOLO, ANOTARAM A DATA DA MARATONA.</h4>
+
+* [Minha resolução]()
+* [Exercício no curso em vídeo](https://youtu.be/5VBWe6BXzRo?feature=shared)
+---
+<!--Desafio 054-->
+<h3>- Desafio 054</h3>
+<h4>Resumo: Crie um programa que leia o ano de nascimento de sete pessoas. No final, mostre quantas pessoas ainda não atingiram a maioridade e quantas já são maiores.</h4>
+
+* [Minha resolução]()
+* [Exercício no curso em vídeo](https://youtu.be/IL5iBWoKRIs?feature=shared)
+---
+<!--Desafio 055-->
+<h3>- Desafio 055</h3>
+<h4>Resumo: Faça um programa que leia o peso de cinco pessoas. No final, mostre qual foi o maior e o menor peso lidos.</h4>
+
+* [Minha resolução]()
+* [Exercício no curso em vídeo](https://youtu.be/Kjpb_IAOKRQ?feature=shared)
+---
+<!--Desafio 056-->
+<h3>- Desafio 056</h3>
+<h4>Resumo: Desenvolva um programa que leia o nome, idade e sexo de 4 pessoas. No final do programa, mostre: a média de idade do grupo, qual é o nome do homem mais velho e quantas mulheres têm menos de 20 anos.</h4>
+
+* [Minha resolução]()
+* [Exercício no curso em vídeo](https://youtu.be/fokDF4th0IY?feature=shared)
