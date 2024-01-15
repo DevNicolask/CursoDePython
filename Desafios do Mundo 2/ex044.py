@@ -32,3 +32,4 @@ elif Condicao == 4:
 else:
     print(f'\033[1;31mOpção inválida de pagamento. Tente novamente!\033[m')
 print(f'\033[1;31mO valor à ser pago pela sua compra de R${Pproduto:.2f} será {total:.2f}R$\033[m')
+ 

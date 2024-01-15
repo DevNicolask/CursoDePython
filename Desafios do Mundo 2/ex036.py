@@ -21,3 +21,4 @@ if prestacao > (salario*0.3):
 else:
     print(f'A sua compra foi efetivada, e você terá que pagar {prestacao:.2f} por {(anos * 12):.0f} mêses')
 print('=-' * 30)
+ 

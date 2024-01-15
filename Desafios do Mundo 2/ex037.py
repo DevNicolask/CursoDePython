@@ -29,6 +29,6 @@ elif conversao == 3:
     print('\033[1;33mConvertendo para base hexadecimal...\033[m')
     print(f'\033[1;33mO número {N} na base hexadecimal é {hex(N)[2:]}\033[m') # Utilizei a função: hex()
 
-# Usuário não digitou nenhum dos outros comandos. Encerra o programa
+# Usuário não digitou nenhum dos outros comandos. Encerra o programa.
 else:
     print('\033[1;35mNenhuma conversão selecionada, encerrando...\033[m')

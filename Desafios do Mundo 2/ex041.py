@@ -30,3 +30,4 @@ elif idade <= 25:
     print('\033[1;34mO atleta está no nível SÊNIOR.\033[m') # - Até 25 anos: SÊNIOR.
 else:
     print('\033[1;35mO atleta está no nível MASTER.\033[m') # - Acima de 25 anos: MASTER.
+ 

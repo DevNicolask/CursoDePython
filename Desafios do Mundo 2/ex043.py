@@ -32,3 +32,4 @@ elif 30 <= IMC < 40:
     print('\033[1;35mSTATUS:\033[m \033[1;31mVocê está em OBESIDADE.\033[m') # Obesidade.
 elif 40 <= IMC:
     print('\033[1;35mSTATUS:\033[m \033[1;30mVocê está em OBESIDADE MÓRBIDA, cuidado!\033[m')  # Obesidade Mórbida.
+ 

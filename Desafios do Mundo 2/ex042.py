@@ -23,3 +23,4 @@ if l1 + l2 > l3 and l1 + l3 > l2 and l2 + l3 > l1:
 # Se não puder formar poder formar um triângulo.
 else:
     print(f'\033[1;36mOs lados {l1}, {l2} e {l3} NÃO PODEM formar um triângulo.\033[m]')
+ 

@@ -13,4 +13,4 @@ if A == B:
 elif A > B:
     print(f'\033[1;35mO número {A} é maior que o número {B}.\033[m') # O primeiro é maior.
 else:
-    print(f'\033[1;35mO número {B} é maior que o número {A}.\033[m') # O segundo é maior.
+    print(f'\033[1;35mO número {B} é maior que o número {A}.\033[m') # O segundo é maior. 

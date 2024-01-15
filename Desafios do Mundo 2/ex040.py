@@ -18,4 +18,4 @@ if media < 5:
 elif media >= 7:
     print(f'\033[1;35mA média do aluno foi {media:.1f} e ele está APROVADO.\033[m') # Aluno APROVADO.
 else:
-    print(f'\033[1;33mA média do aluno foi {media:.1f} e ele está de RECUPERAÇÃO.\033[m') # Aluno de RECUPERAÇÃO
+    print(f'\033[1;33mA média do aluno foi {media:.1f} e ele está de RECUPERAÇÃO.\033[m') # Aluno de RECUPERAÇÃO.

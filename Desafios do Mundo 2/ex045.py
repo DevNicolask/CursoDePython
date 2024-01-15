@@ -59,3 +59,4 @@ else:
 print('\033[1;35m=-=\033[m' * 10)
 
 # Fim das condições de resposta do jogo.
+ 

@@ -45,3 +45,4 @@ else:
 
 # Mostra em que ano foi o alistamento da pessoa.
         print(f'\033[1;36mSeu alistamento será em\033[m \033[1;35m{ano_atual - ((2024 - ano) - 18)}\033[m')
+ 
