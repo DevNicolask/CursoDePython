@@ -23,4 +23,3 @@ print(f'\033[1;35mMuito prazer em te conhecer\033[1;35m \033[1;36m{a}!\033[m\n\0
 # Versão do Professor Guanabara.
 # print(f'\033[1;35mMuito prazer em te connhecer\033[m \033[1;36m{a}.\033[m\n\033[1;35mSeu primeiro nome é\033[m '
 #      f'\033[1;36m{b[0]}\033[m \033[1;35me seu ultimo nome é\033[m \033[1;36m{b[len(b) - 1]}.\033[m!')"""
- 

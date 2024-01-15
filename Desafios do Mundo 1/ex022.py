@@ -28,4 +28,3 @@ print(f'\033[1;35mSeu ultimo nome tem\033[m \033[1;34m{nome.find(' '[0])} letras
 b = nome.split()
 print(f'\033[1;35m4. E seu primeiro nome\033[m \033[1;34m"{b[0]}"\033[m \033[1;35mtem\033[m '
       f'\033[1;34m{len(b[0])} letras.\033[m')"""
- 
