@@ -15,3 +15,4 @@ if analizador == 2:
 else:
     print(f'\033[1;35mSeu número NÃO É PRIMO. Ele foi divisivel\033[m \033[1;36m{analizador}\033[m '
           f'\033[1;35mvezes.\033[m')
+ 

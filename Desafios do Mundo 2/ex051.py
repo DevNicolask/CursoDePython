@@ -8,3 +8,4 @@ for cont in range(0, 10):
     PA = numero + (razao * cont)
     print(f'\033[1;35m{PA} -> \033[m', end='')
 print('\033[1;36mAcabou!\033[m')
+ 

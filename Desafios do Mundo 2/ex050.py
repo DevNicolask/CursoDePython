@@ -10,3 +10,4 @@ for cont in range(1, 7):
         soma += numero
 print(f'\033[1;35mA soma de todos os\033[m \033[1;36m{quantpar}\033[m \033[1;35mnúmeros pares que você digitou é\033[m'
       f' \033[1;36m{soma}.\033[m')
+ 

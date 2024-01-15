@@ -13,3 +13,4 @@ for pessoa in range(1, 5):
 print()
 print(f'\033[1;35mA pessoa com o\033[m \033[1;36mMAIOR\033[m \033[1;35mpeso tem\033[m \033[1;35m{maiorpeso}Kg.\033[m\n'
       f'\033[1;35mE a pessoa com o\033[m \033[1;36mMENOR\033[m \033[1;35mpeso tem\033[m \033[1;35m{menorpeso}Kg.\033[m')
+ 
