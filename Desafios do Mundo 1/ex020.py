@@ -26,4 +26,3 @@ lista = [nome1, nome2, nome3, nome4]
 shuffle(lista)
 print('\033[1;34mA sequência de alunos escolhida foi: \033[m')
 print(lista)"""
- 

@@ -30,4 +30,3 @@ from math import hypot
 a = float(input('\033[1;34mMe diga o primeiro cateto. \033[m'))
 b = float(input('\033[1;34mMe diga o segundo cateto. \033[m'))
 print(f'\033[1;36mA hipotenusa será {hypot(a, b):.2f}\033[m')"""
- 
