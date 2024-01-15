@@ -7,4 +7,3 @@ if a % 2 == 0:
     print('\033[1;35mSeu número é\033[m \033[1;36mPAR.\033[m') # Se o número for par
 else:
     print('\033[1;35mSeu número é\033[m \033[1;36mIMPAR.\033[m') # Se o número for impar
- 

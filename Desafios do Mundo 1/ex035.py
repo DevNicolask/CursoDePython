@@ -20,4 +20,3 @@ if (a + b) > c and (a + c) > b and (b + c) > a:
 else:
     print(f'\033[1;32mSuas retas ({a}, {b} e {c}) NÃO FORMAM um triângulo.\033[m')
 print('\033[33m-=\033[m' * 30)
- 

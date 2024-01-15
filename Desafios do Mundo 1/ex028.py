@@ -34,4 +34,3 @@ else:
     sleep(2)
     print(f'\033[1;35mQue pena, você errou, eu pensei em\033[m \033[1;33m{a}\033[m \033[1;35me não em\033[m '
           f'\033[1;31m{b}\033[m \033[1;35mmais sorte da próxima vez! \033[m') # Se o jogador perder.
- 
