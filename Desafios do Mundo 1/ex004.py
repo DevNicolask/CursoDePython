@@ -33,4 +33,3 @@ print(f'{cores['violeta']}{a} é um espaço? {cores['reset']}', a.isspace())
 print(f'{cores['preto']}{a} tem apenas letras maiúsculas? {cores['reset']}', a.isupper())
 print(f'{cores['azul']}{a} team apenas letras minúsculas? {cores['reset']}', a.islower())
 print(f'{cores['verde']}{a} tem a inicial maiúscula?(capitalizated) {cores['reset']}', a.istitle())"""
- 
