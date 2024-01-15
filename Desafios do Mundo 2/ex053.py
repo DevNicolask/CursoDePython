@@ -13,4 +13,3 @@ if inverso == junto:
     print(f'\033[1;35mA frase\033[m \033[1;36m{junto}\033[m \033[1;35mÉ UM PALÍNDROMO!\033[m')
 else:
     print(f'\033[1;35mA frase\033[m \033[1;36m{junto}\033[m \033[1;31mNÃO É UM PALÍNDROMO!\033[m')
- 

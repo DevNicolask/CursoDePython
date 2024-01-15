@@ -33,3 +33,4 @@ if qmulheres == 1:
     print(f'\033[1;36mNesse grupo, {qmulheres} mulher tem menos de 20 anos de idade.')
 else:
     print(f'\033[1;36mNesse grupo, {qmulheres} mulheres têm menos de 20 anos de idade.')
+    
