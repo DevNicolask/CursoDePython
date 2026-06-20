@@ -16,10 +16,6 @@
 ### Site do Curso: [Curso de Python](https://www.cursoemvideo.com/curso/python-3-mundo-1/)
 ### Site da IDE que eu utilizei pra fazer os exercícios: [PyCharm](https://www.jetbrains.com/pt-br/pycharm/)
 #### Obs.: Eu utilizei o PyCharm Community Edition 2023.3
----
-### Todas as aulas sao gratuitas, mas possuem o direito autoral reservado  ao autor, Gustavo Guanabara.
-
-### Para instruções de instalação e configuração do PyCharm veja os vídeos introdutórios do curso de Python do Curso em video.
 
 <!--Instruções-->
 <h2>II. Como fazer</h2>
