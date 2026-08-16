@@ -92,7 +92,7 @@ Este repositório contém as resoluções dos desafios do curso de Python do [Cu
 | Número do Desafio | Minha Resolução | Vídeo do Curso |
 |---|---|---|
 | 036 | [ex036.py](https://github.com/DevNicolask/CursoDePython/blob/main/Desafios%20do%20Mundo%202/ex036.py) | [Assistir](https://www.youtube.com/watch?v=IV13X0QOMU8&list=PLHz_AreHm4dk_nZHmxxf_J0WRAqy5Czye&index=3) |
-| 037 | [ex037.py](https://github.com/DevNicolask/CursoDePython/blob/main/Desafios%20do%20Mundo%202/ex037.py) | [Assistir](https://www.youtube.com/watch?v=IV13X0QOMU8&list=PLHz_AreHm4dk_nZHmxxf_J0WRAqy5Czye&index=3) |
+| 037 | [ex037.py](https://github.com/DevNicolask/CursoDePython/blob/main/Desafios%20do%20Mundo%202/ex037.py) | [Assistir](https://youtu.be/B3F0IjH5WAM) |
 | 038 | [ex038.py](https://github.com/DevNicolask/CursoDePython/blob/main/Desafios%20do%20Mundo%202/ex038.py) | [Assistir](https://www.youtube.com/watch?v=iuPbB9uHczM&list=PLHz_AreHm4dk_nZHmxxf_J0WRAqy5Czye&index=5) |
 | 039 | [ex039.py](https://github.com/DevNicolask/CursoDePython/blob/main/Desafios%20do%20Mundo%202/ex039.py) | [Assistir](https://www.youtube.com/watch?v=ePwP4gU_waY&list=PLHz_AreHm4dk_nZHmxxf_J0WRAqy5Czye&index=6) |
 | 040 | [ex040.py](https://github.com/DevNicolask/CursoDePython/blob/main/Desafios%20do%20Mundo%202/ex040.py) | [Assistir](https://www.youtube.com/watch?v=QuWDyUeoaJs&list=PLHz_AreHm4dk_nZHmxxf_J0WRAqy5Czye&index=7) |
