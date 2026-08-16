@@ -1,6 +1,11 @@
 <!--Título do repositório-->
 # Desafios do Curso de Python — Curso em Vídeo
 
+<!--Tradutor-->
+### **[English](https://github.com/DevNicolask/CursoDePython/blob/main/READMEENG.md)**
+
+---
+
 <!--Intro-->
 ## I. Introdução
 
@@ -10,6 +15,7 @@ Este repositório contém as resoluções dos desafios do curso de Python do [Cu
 **IDE utilizada:** [PyCharm](https://www.jetbrains.com/pt-br/pycharm/) (Community Edition)
 
 ---
+
 <!--Instruções-->
 ## II. Outras Informações
 
