@@ -3,6 +3,20 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="linha"><br><br>
 <div align="center">
 
+<!--Intro-->
+## I. Introdução
+
+Este repositório contém as resoluções dos desafios do curso de Python do [Curso em Vídeo](https://www.cursoemvideo.com), ministrado pelo professor Gustavo Guanabara. Algumas resoluções incluem comentários adicionais autorais; parte delas também foi resolvida em vídeo pelo professor, mas está replicada aqui. O objetivo principal é armazenar as respostas desenvolvidas e documentar o processo de aprendizado de Python ao longo do curso.
+
+**Site do curso:** [Curso de Python](https://www.cursoemvideo.com/curso/python-3-mundo-1/)  
+**IDE utilizada:** [PyCharm](https://www.jetbrains.com/pt-br/pycharm/) (Community Edition)
+
+<!--Instruções-->
+## II. Outras Informações
+
+- resoluções dos desafios organizados em ordem crescente (repositório em atualização).
+- O link da aula correspondente a cada desafio será incluído.
+
 <!--Links Nick-->
 <table align="center">
   <tr>
@@ -24,22 +38,7 @@
   </tr>
 </table>
 
-<!--Intro-->
-## I. Introdução
-
-Este repositório contém as resoluções dos desafios do curso de Python do [Curso em Vídeo](https://www.cursoemvideo.com), ministrado pelo professor Gustavo Guanabara. Algumas resoluções incluem comentários adicionais autorais; parte delas também foi resolvida em vídeo pelo professor, mas está replicada aqui. O objetivo principal é armazenar as respostas desenvolvidas e documentar o processo de aprendizado de Python ao longo do curso.
-
-**Site do curso:** [Curso de Python](https://www.cursoemvideo.com/curso/python-3-mundo-1/)  
-**IDE utilizada:** [PyCharm](https://www.jetbrains.com/pt-br/pycharm/) (Community Edition)
-
-<!--Instruções-->
-## II. Outras Informações
-
-- resoluções dos desafios organizados em ordem crescente (repositório em atualização).
-- O link da aula correspondente a cada desafio será incluído.
-
 <!--Aqui começam os desafios-->
-
 ## III. Desafios
 
 ### Mundo 1
