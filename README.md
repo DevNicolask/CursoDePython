@@ -1,8 +1,7 @@
 <!--Título do repositório-->
-# <center>Desafios do Curso de Python — Curso em Vídeo</center>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="linha"><br><br>
-<div align="center">
+# Desafios do Curso de Python — Curso em Vídeo
 
+---
 <!--Intro-->
 ## I. Introdução
 
@@ -11,6 +10,7 @@ Este repositório contém as resoluções dos desafios do curso de Python do [Cu
 **Site do curso:** [Curso de Python](https://www.cursoemvideo.com/curso/python-3-mundo-1/)  
 **IDE utilizada:** [PyCharm](https://www.jetbrains.com/pt-br/pycharm/) (Community Edition)
 
+---
 <!--Instruções-->
 ## II. Outras Informações
 
@@ -38,6 +38,7 @@ Este repositório contém as resoluções dos desafios do curso de Python do [Cu
   </tr>
 </table>
 
+---
 <!--Aqui começam os desafios-->
 ## III. Desafios
 
