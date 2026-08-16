@@ -1,30 +1,32 @@
 <!--Título do repositório-->
-# <center>Desafios do curso de Python do Curso em Vídeo</center>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt = linha ><br><br>
+# <center>Desafios do Curso de Python — Curso em Vídeo</center>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="linha"><br><br>
 <div align="center">
-<!--Links Nick-->
 
+<!--Links Nick-->
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/nick_ksc/) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/n%C3%ADcolas-kawan-06ab3a2a5/)
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discordapp.com/users/dev.nick_57071)
 [![Gmail](https://img.shields.io/badge/Gmail-%23ea4325.svg?logo=Gmail&logoColor=white)](https://mail.google.com/mail/u/1/#sent?compose=CllgCJqbQBpcJbFmWZtJHnhGCGzwlKwJQMlmdCctbtknXBvTLrcQRmqLjlLCzVJtGLWsTBpltHL)
 </div>
-<!--Intro-->
-<h2>I. Introdução</h2>
 
-### Aqui eu resolvi colocar as minhas resoluções de desafios do curso de Python do [Curso em vídeo](www.cursoemvideo.com) do professor Gustavo Guanabara. Eu fiz alguns comentários nas minhas resoluções dos desafios alem disso, alguns desses exercícios o professor resolveu em vídeo, mas eu coloquei aqui também. Nesse repositório, pretendo principalmente armazenar a minha versão de resposta dos desafios e minha experiência aprendendo Python nesse curso maravilhoso.
-### Site do Curso: [Curso de Python](https://www.cursoemvideo.com/curso/python-3-mundo-1/)
-### Site da IDE que eu utilizei pra fazer os exercícios: [PyCharm](https://www.jetbrains.com/pt-br/pycharm/)
-#### Obs.: Eu utilizei o PyCharm Community Edition 2023.3
+<!--Intro-->
+## I. Introdução
+
+Este repositório reúne as resoluções dos desafios do curso de Python do [Curso em Vídeo](https://www.cursoemvideo.com), ministrado pelo professor Gustavo Guanabara. Algumas resoluções incluem comentários adicionais; parte delas também foi resolvida em vídeo pelo professor, mas está replicada aqui. O objetivo principal é armazenar as respostas desenvolvidas e documentar o processo de aprendizado de Python ao longo do curso.
+
+**Site do curso:** [Curso de Python](https://www.cursoemvideo.com/curso/python-3-mundo-1/)  
+**IDE utilizada:** [PyCharm](https://www.jetbrains.com/pt-br/pycharm/) (Community Edition)
 
 <!--Instruções-->
-<h2>II. Como fazer</h2>
+## II. Como utilizar
 
-###  i. Faça os desafios do curso em vídeo
-#### - Vou colocá-los aqui em órdem crescente. (estou terminando ainda) 
-#### - Vou botar aqui também o link das respectivas aulas dos desafios.
-### ii. Se tiver curiosidade de ver a minha solução, procure aqui.
-#### - Vou deixar o link da pasta da minha solução abaixo do desafio.
+**i. Desafios do curso**
+- Organizados em ordem crescente (repositório em atualização).
+- O link da aula correspondente a cada desafio será incluído.
+
+**ii. Soluções**
+- O link da pasta com a solução estará disponível logo abaixo de cada desafio.
 
 <!--Aqui começam os desafios-->
 
