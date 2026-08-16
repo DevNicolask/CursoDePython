@@ -86,7 +86,7 @@ Este repositório contém as resoluções dos desafios do curso de Python do [Cu
 | 048 | [ex048.py](https://github.com/DevNicolask/CursoDePython/blob/main/Desafios%20do%20Mundo%202/ex048.py) | [Assistir](https://youtu.be/iHjsUxNA-wo?feature=shared) |
 | 049 | [ex049.py](https://github.com/DevNicolask/CursoDePython/blob/main/Desafios%20do%20Mundo%202/ex049.py) | [Assistir](https://youtu.be/QtElJDa9ICM?feature=shared) |
 | 050 | [ex050.py](https://github.com/DevNicolask/CursoDePython/blob/main/Desafios%20do%20Mundo%202/ex050.py) | [Assistir](https://youtu.be/rJaBLOW57Jg?feature=shared) |
-| 051 | [ex051.py](https://github.com/DevNicolask/CursoDePython/blob/main/Desafios%20do%20Mundo%202/ex050.py) | [Assistir](https://youtu.be/-OnqSGh0u4g?feature=shared) |
+| 051 | [ex051.py](https://github.com/DevNicolask/CursoDePython/blob/main/Desafios%20do%20Mundo%202/ex051.py) | [Assistir](https://youtu.be/-OnqSGh0u4g?feature=shared) |
 | 052 | [ex052.py](https://github.com/DevNicolask/CursoDePython/blob/main/Desafios%20do%20Mundo%202/ex052.py) | [Assistir](https://youtu.be/Er5Hyd4LyVw?feature=shared) |
 | 053 | [ex053.py](https://github.com/DevNicolask/CursoDePython/blob/main/Desafios%20do%20Mundo%202/ex053.py) | [Assistir](https://youtu.be/5VBWe6BXzRo?feature=shared) |
 | 054 | [ex054.py](https://github.com/DevNicolask/CursoDePython/blob/main/Desafios%20do%20Mundo%202/ex054.py) | [Assistir](https://youtu.be/IL5iBWoKRIs?feature=shared) |
