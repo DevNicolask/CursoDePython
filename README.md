@@ -1,7 +1,6 @@
 <!--Título do repositório-->
 # Desafios do Curso de Python — Curso em Vídeo
 
----
 <!--Intro-->
 ## I. Introdução
 
