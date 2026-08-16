@@ -7,17 +7,14 @@
 This repository contains the solutions to the challenges from the Python course by [Curso em Vídeo](https://www.cursoemvideo.com), taught by professor Gustavo Guanabara. Some solutions include additional comments written by me; some of them were also solved in videos by the instructor, but are replicated here. The main goal is to store the developed solutions and document the Python learning process throughout the course.
 
 **Course website:** [Python Course](https://www.cursoemvideo.com/curso/python-3-mundo-1/)  
-**IDE used:** [PyCharm](https://www.jetbrains.com/pt-br/pycharm/) (Community Edition)
-
----
+**IDE used:** [PyCharm](https://www.jetbrains.com/pt-br/pycharm/) (Community Edition)  
 
 <!--Instructions-->
 ## II. Other Information
 
 - Challenge solutions organized in ascending order (repository under development).
-- The link to the corresponding lesson for each challenge will be included.
+- The link to the corresponding lesson for each challenge will be included.  
 
----
 
 <!--Challenges begin here-->
 ## III. Challenges
