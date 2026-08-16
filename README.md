@@ -17,7 +17,7 @@ Este repositório contém as resoluções dos desafios do curso de Python do [Cu
 - O link da aula correspondente a cada desafio será incluído.
 
 <!--Links Nick-->
-<table align="center">
+<table>
   <tr>
     <td>
       <a href="https://www.instagram.com/dev_nck/" target="_blank">
