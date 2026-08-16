@@ -8,6 +8,8 @@ Este repositório contém as resoluções dos desafios do curso de Python do [Cu
 
 **Site do curso:** [Curso de Python](https://www.cursoemvideo.com/curso/python-3-mundo-1/)  
 **IDE utilizada:** [PyCharm](https://www.jetbrains.com/pt-br/pycharm/) (Community Edition)
+<!--Tradutor-->
+Switch to the **[README English Version ](https://github.com/DevNicolask/CursoDePython/blob/main/READMEENG.md)**
 
 ---
 
@@ -16,11 +18,6 @@ Este repositório contém as resoluções dos desafios do curso de Python do [Cu
 
 - resoluções dos desafios organizados em ordem crescente (repositório em atualização).
 - O link da aula correspondente a cada desafio será incluído.
-
-<!--Tradutor-->
-- [English traduction](https://github.com/DevNicolask/CursoDePython/blob/main/READMEENG.md)
-
----
 
 <!--Aqui começam os desafios-->
 ## III. Desafios
