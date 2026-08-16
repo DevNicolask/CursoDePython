@@ -1,11 +1,6 @@
 <!--Título do repositório-->
 # Desafios do Curso de Python — Curso em Vídeo
 
-<!--Tradutor-->
-### **[English](https://github.com/DevNicolask/CursoDePython/blob/main/READMEENG.md)**
-
----
-
 <!--Intro-->
 ## I. Introdução
 
@@ -21,6 +16,9 @@ Este repositório contém as resoluções dos desafios do curso de Python do [Cu
 
 - resoluções dos desafios organizados em ordem crescente (repositório em atualização).
 - O link da aula correspondente a cada desafio será incluído.
+
+<!--Tradutor-->
+- [English traduction](https://github.com/DevNicolask/CursoDePython/blob/main/READMEENG.md)
 
 ---
 
