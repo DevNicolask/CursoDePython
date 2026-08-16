@@ -4,29 +4,39 @@
 <div align="center">
 
 <!--Links Nick-->
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/nick_ksc/) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/n%C3%ADcolas-kawan-06ab3a2a5/)
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discordapp.com/users/dev.nick_57071)
-[![Gmail](https://img.shields.io/badge/Gmail-%23ea4325.svg?logo=Gmail&logoColor=white)](https://mail.google.com/mail/u/1/#sent?compose=CllgCJqbQBpcJbFmWZtJHnhGCGzwlKwJQMlmdCctbtknXBvTLrcQRmqLjlLCzVJtGLWsTBpltHL)
-</div>
+<table align="center">
+  <tr>
+    <td>
+      <a href="https://www.instagram.com/dev_nck/" target="_blank">
+        <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" alt="Instagram">
+      </a>
+    </td>
+    <td>
+      <a href="https://www.linkedin.com/in/nicolas-kawan-dos-santos-941344216?utm_source=share_via&utm_content=profile&utm_medium=member_android" target="_blank">
+        <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn">
+      </a>
+    </td>
+    <td>
+      <a href="https://mail.google.com/mail/u/1/#sent?compose=CllgCJqbQBpcJbFmWZtJHnhGCGzwlKwJQMlmdCctbtknXBvTLrcQRmqLjlLCzVJtGLWsTBpltHL" target="_blank">
+        <img src="https://img.shields.io/badge/Gmail-%23ea4325.svg?logo=Gmail&logoColor=white" alt="Gmail">
+      </a>
+    </td>
+  </tr>
+</table>
 
 <!--Intro-->
 ## I. Introdução
 
-Este repositório reúne as resoluções dos desafios do curso de Python do [Curso em Vídeo](https://www.cursoemvideo.com), ministrado pelo professor Gustavo Guanabara. Algumas resoluções incluem comentários adicionais; parte delas também foi resolvida em vídeo pelo professor, mas está replicada aqui. O objetivo principal é armazenar as respostas desenvolvidas e documentar o processo de aprendizado de Python ao longo do curso.
+Este repositório contém as resoluções dos desafios do curso de Python do [Curso em Vídeo](https://www.cursoemvideo.com), ministrado pelo professor Gustavo Guanabara. Algumas resoluções incluem comentários adicionais autorais; parte delas também foi resolvida em vídeo pelo professor, mas está replicada aqui. O objetivo principal é armazenar as respostas desenvolvidas e documentar o processo de aprendizado de Python ao longo do curso.
 
 **Site do curso:** [Curso de Python](https://www.cursoemvideo.com/curso/python-3-mundo-1/)  
 **IDE utilizada:** [PyCharm](https://www.jetbrains.com/pt-br/pycharm/) (Community Edition)
 
 <!--Instruções-->
-## II. Como utilizar
+## II. Outras Informações
 
-**i. Desafios do curso**
-- Organizados em ordem crescente (repositório em atualização).
+- resoluções dos desafios organizados em ordem crescente (repositório em atualização).
 - O link da aula correspondente a cada desafio será incluído.
-
-**ii. Soluções**
-- O link da pasta com a solução estará disponível logo abaixo de cada desafio.
 
 <!--Aqui começam os desafios-->
 
