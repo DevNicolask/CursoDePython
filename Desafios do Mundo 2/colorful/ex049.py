@@ -4,6 +4,6 @@ laço 'for'.
 """
 
 contador = 0
-numero = int(input('Escreva o número que você quer a tabuada: '))
+numero = int(input('\033[1;35mEscreva o número que você quer a tabuada: \033[m'))
 for contador in range(0, 11):
-    print(f'{numero} * {contador:2} = {numero * contador}')
+    print(f'\033[1;36m{numero} * {contador:2} = {numero * contador}\033[m')

@@ -1,15 +1,15 @@
 # Desafio: Faça um programa que leia o peso de cinco pessoas. No final, mostre qual foi o maior e o menor peso lidos.
 
 pessoa = 0
-peso = float(input(f'\033[1;35mDigite o peso da\033[m \033[1;36m{pessoa + 1}ª pessoa (Kg): \033[m'))
+peso = float(input(f'Digite o peso da {pessoa + 1}ª pessoa (Kg): '))
 menorpeso = peso
 maiorpeso = peso
 for pessoa in range(1, 5):
-    peso = float(input(f'\033[1;35mDigite o peso da\033[m \033[1;36m{pessoa + 1}ª pessoa (Kg): \033[m'))
+    peso = float(input(f'Digite o peso da {pessoa + 1}ª pessoa (Kg): '))
     if peso > maiorpeso:
         maiorpeso = peso
     if peso < menorpeso:
         menorpeso = peso
 print()
-print(f'\033[1;35mA pessoa com o\033[m \033[1;36mMAIOR\033[m \033[1;35mpeso tem\033[m \033[1;35m{maiorpeso}Kg.\033[m\n'
-      f'\033[1;35mE a pessoa com o\033[m \033[1;36mMENOR\033[m \033[1;35mpeso tem\033[m \033[1;35m{menorpeso}Kg.\033[m')
+print(f'A pessoa com o MAIOR peso tem {maiorpeso}Kg.\n'
+      f'E a pessoa com o MENOR peso tem {menorpeso}Kg.')
